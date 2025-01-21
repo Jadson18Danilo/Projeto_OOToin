@@ -1,7 +1,7 @@
 /*
 Enunciado:
-Crie uma ordem de aulas para representar animais. Uma classe base Animaldeve ter o
-método emitirSom. As classes derivadas Cachorroe Gatodevem Passarosobrescrever
+Crie uma ordem de aulas para representar animais. Uma classe base Animal deve ter o
+método emitirSom. As classes derivadas Cachorro e Gato devem Passar o sobrescrever
 esse método para selecionar sons específicos.
 Instancie objetos de cada classe, armazene-os em um array e itere chame o método
 emitirSompara demonstrar polimorfismo.

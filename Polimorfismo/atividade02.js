@@ -18,8 +18,7 @@ class Veiculo {
     class Carro extends Veiculo {
     mover() {
     // Sobrescreve o método mover para o comportamento específico de um carro
-    console.log("O carro está se movendo na estrada."); // Mensagem exibida ao chamar o
-    método
+    console.log("O carro está se movendo na estrada."); // Mensagem exibida ao chamar o método
     }
     }
     // Classe derivada Bicicleta
@@ -36,6 +35,5 @@ class Veiculo {
     ];
     // Itera sobre o array de veículos e chama o método mover de cada um
     veiculos.forEach((veiculo) => {
-    veiculo.mover(); // Chama o método mover para o veículo atual e exibe a mensagem
-    correspondente
+    veiculo.mover(); // Chama o método mover para o veículo atual e exibe a mensagem correspondente
     });

@@ -1,9 +1,9 @@
 /*
 Enunciado:
 Crie uma classificação de classes para representar ferramentas. Uma classe base
-Ferramentadeve ter o método usar. As classes derivadas Marteloe
-ChaveDeFendadevem Serrotesobrescrever o método para exibir mensagens
-específicas sobre como são usadas.
+Ferramentadeve ter o método usar. As classes derivadas Martelo e ChaveDeFenda e 
+Serrote devem sobrescrever o método para exibir mensagens específicas sobre como 
+são usadas.
 Crie instâncias de cada classe, armazene-as em um array e itere chamando o método
 usarem cada instância para demonstrar polimorfismo.
 */

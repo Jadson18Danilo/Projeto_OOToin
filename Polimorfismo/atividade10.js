@@ -2,8 +2,8 @@
 Enunciado:
 Implemente uma hierarquia de classes para representar dispositivos eletrônicos. A
 classe base Eletronico deve ter o método ligar. Crie classes derivadas como Smartphone
-e Notebook, sobrescrevendo esse método. Armazene objetos dessas classes em um
-array e itere chamando o método ligar.
+e Notebook devem sobrescrevendo esse método. Armazene objetos dessas classes em um
+array e intere chamando o método ligar.
 */
 
 // Classe base

@@ -1,9 +1,9 @@
 /*
 Enunciado:
-Crie uma hierarquia de classes para diferentes tipos de contas bancárias. A classe base
-ContaBancaria deve ter o método calcularJuros. Crie classes derivadas como
-ContaPoupanca e ContaCorrente, sobrescrevendo esse método. No final, itere por uma
-lista de contas, chamando o método de forma polimórfica.
+Crie uma hierarquia de classes para diferentes tipos de contas bancárias. 
+A classe baseContaBancaria deve ter o método calcularJuros. Crie classes 
+derivadas como ContaPoupanca e ContaCorrente, sobrescrevendo esse método. 
+No final, itere por uma lista de contas, chamando o método de forma polimórfica.
 */
 
 // Classe base

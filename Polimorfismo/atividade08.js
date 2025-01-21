@@ -1,7 +1,7 @@
 /*
 Enunciado:
 Crie uma classificação de classes para representar notificações. Uma classe base
-Notificacaodeve ter o método enviar. As classes derivadas Email, SMSe Pushdevem
+Notificacão deve ter o método enviar. As classes derivadas Email, SMS e Push devem
 sobrescrever o método para exibir mensagens específicas sobre como cada notificação
 é enviada.
 Crie instâncias de cada classe, armazene-as em um array e demonstre o polimorfismo ao

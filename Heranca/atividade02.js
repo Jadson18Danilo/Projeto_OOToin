@@ -8,7 +8,7 @@ para exibir todas as informações do gerente.
 // Classe base chamada Animal
 class Funcionario {
     constructor(nome, salario) {
-      this.nome = nome; // Define o nome do Funcionario
+      this.nome = nome // Define o nome do Funcionario
       this.salario = salario // // Define o nome do Funcionario
     }
   }

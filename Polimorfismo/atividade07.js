@@ -1,8 +1,8 @@
 /*
 Enunciado:
-Crie uma classificação de classes para representar dispositivos eletrônicos. Uma classe
-base Dispositivodeve ter o método ligar. As classes derivadas Celulare
-Tabletdevem Notebooksobrescrever esse método para exibir mensagens específicas
+Crie uma classificação de classes para representar dispositivos eletrônicos.
+Uma classe base Dispositivo deve ter o método ligar. As classes derivadas Celular,
+Tablet e Notebook devem sobrescrever esse método para exibir mensagens específicas
 sobre como cada dispositivo está conectado.
 Crie instâncias de cada classe, armazene-as em um array e utilize um loop para
 demonstrar polimorfismo ao chamar o método ligar.
